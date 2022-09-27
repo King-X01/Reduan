@@ -398,7 +398,7 @@ logo = ("""\033[1;32m
  |_|  \_\______|_____/ \____/_/    \_\_| \_|   \033
 __________________×______________________
   
-  Owner   :  REDUAN Islam
+  Owner   :  REDUAN AHMED RAHI
  
   Github   :  Termux-REDUAN
 
